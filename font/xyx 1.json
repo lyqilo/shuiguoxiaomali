@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_,.png",
+	"frame": {"x":0,"y":0,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_..png",
+	"frame": {"x":48,"y":0,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_0.png",
+	"frame": {"x":96,"y":0,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_1.png",
+	"frame": {"x":144,"y":0,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_2.png",
+	"frame": {"x":192,"y":0,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_3.png",
+	"frame": {"x":0,"y":59,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_4.png",
+	"frame": {"x":48,"y":59,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_5.png",
+	"frame": {"x":96,"y":59,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_6.png",
+	"frame": {"x":144,"y":59,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_7.png",
+	"frame": {"x":192,"y":59,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_8.png",
+	"frame": {"x":0,"y":118,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_9.png",
+	"frame": {"x":48,"y":118,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_B.png",
+	"frame": {"x":96,"y":118,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_K.png",
+	"frame": {"x":144,"y":118,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_M.png",
+	"frame": {"x":192,"y":118,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+},
+{
+	"filename": "xiaomali_xiaoyopuxishuzi_1_T.png",
+	"frame": {"x":0,"y":177,"w":47,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":58},
+	"sourceSize": {"w":47,"h":58}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "xyx.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c677e7ff82cc9545da6b871a57ff16d2:96608d3cdc8f07f82709ff8b278d6d6e:0b24629401f4186b9ffb6774594200fb$"
+}
+}

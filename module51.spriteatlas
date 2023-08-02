@@ -221,6 +221,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 1b8c5219fbe3674459568809bfcb297d, type: 3}
   - {fileID: 21300000, guid: f8dee419860799f4db086fe41838345e, type: 3}
   - {fileID: 21300000, guid: c0a2a51989434b5daf30fe46fe57753a, type: 3}
+  - {fileID: 21300000, guid: c75c061941f9d0249967dbfbb062256f, type: 3}
   - {fileID: 21300000, guid: fa29b719e2064eccb5e0e478afcc5e68, type: 3}
   - {fileID: 21300000, guid: d2525d1935a243089f271825a519e2ce, type: 3}
   - {fileID: 21300000, guid: c3a5b32929ff47c595e8bb9aaf179a02, type: 3}
@@ -272,7 +273,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 140c5e9bc61e42bd8f876bde4c9e9d01, type: 3}
   - {fileID: 21300000, guid: 565647ab9b3d4133aefd540949d468a6, type: 3}
   - {fileID: 21300000, guid: b3acb9ab9fd940aaaa0fb1596ac5ba4b, type: 3}
-  - {fileID: 21300000, guid: 2747ddab63cf9a1409c6d1bb9fb27f08, type: 3}
   - {fileID: 21300000, guid: 79b992bb15774720921122ba0b37355a, type: 3}
   - {fileID: 21300000, guid: 861ab4bbb9ce42a683aae065a3726a54, type: 3}
   - {fileID: 21300000, guid: e0fffdbb7fda443b96fb342e8c6d83a1, type: 3}
@@ -483,6 +483,7 @@ SpriteAtlas:
   - cjsgj_22
   - baozha
   - sgj_bg_tongyong
+  - gold
   - sgj_wild_guang
   - sgj_9dian
   - sgj_bg_beishu
@@ -534,7 +535,6 @@ SpriteAtlas:
   - sgj_text_shuiguomali
   - sgj_bg_landeng
   - sgj_zs_xx_2
-  - gold
   - sgj_lunpan_gao
   - sgj_xigua_xyx
   - sgj_bg
